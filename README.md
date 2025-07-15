@@ -46,3 +46,6 @@ ProyectoFinal_Lapioggia/
 **Lucas Lapioggia**  
 Proyecto Final - Curso de JavaScript - Coderhouse 
 Mar del Plata, 2025
+
+✅ Link al simulador funcionando (GitHub Pages)
+https://lucaslapioggia.github.io/Proyectofinal_Lapioggia/
